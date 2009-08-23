@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2753
+
+The banned.vim syntax plugin will hilight C function calls that have been banned by Microsoft's Security Development Lifecycle (SDL). Although many of these function calls are Windows-specific, there are quite a few that are available in UNIX and should be avoided. This syntax plugin adds functionality to the existing C and C++ vim syntax plugins. Details on the banned APIs can be found here: http://msdn.microsoft.com/en-us/library/bb288454.aspx
+
